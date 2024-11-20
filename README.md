@@ -116,6 +116,8 @@ y por la otra parte PyCharm, al no haberlo usado mucho, me ha costado un poco m√
 ---
 
 ## **Capturas del Trabajo**
+
+
 ### Autor
 
 Trabajo realizado por **Indalecio Dom√≠nguez Hita**,**DAW (Grupo de Tarde)** **Entornos de Desarrollo**.
