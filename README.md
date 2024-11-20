@@ -71,7 +71,7 @@ Este proyecto documenta las diferencias, ventajas y experiencias al utilizar dos
 
 ---
 
-##**Configuración del sistema de actualización del entorno**
+## **Configuración del sistema de actualización del entorno**
 
 **¿Cómo configuraste las actualizaciones automáticas en cada IDE?**
 
